@@ -1,19 +1,19 @@
-\contentsline {section}{\numberline {1}Introduzione ai Fondamenti di Intelligenza Artificiale}{3}{}%
-\contentsline {subsection}{\numberline {1.1}Definizione di Intelligenza Artificiale}{3}{}%
-\contentsline {subsection}{\numberline {1.2}Storia dell'Intelligenza Artificiale}{3}{}%
-\contentsline {subsection}{\numberline {1.3}Amo i film di fantascienza, davvero}{3}{}%
-\contentsline {section}{\numberline {2}Un computer è molto più stupido di quanto pensiate}{3}{}%
-\contentsline {subsection}{\numberline {2.1}I dati sono davvero importanti}{3}{}%
-\contentsline {subsection}{\numberline {2.2}Introduzione alla terminologia}{3}{}%
-\contentsline {subsection}{\numberline {2.3}Supervised Learning}{3}{}%
-\contentsline {subsection}{\numberline {2.4}Unsupervised Learning}{3}{}%
-\contentsline {subsection}{\numberline {2.5}Reinforcement Learning}{3}{}%
-\contentsline {section}{\numberline {3}Gallina vecchia fa buon brodo: il Perceptron}{3}{}%
-\contentsline {subsection}{\numberline {3.1}Non è magia}{3}{}%
-\contentsline {subsection}{\numberline {3.2}Descrizione matematica di un problema semplice}{3}{}%
-\contentsline {subparagraph}{Gestione degli Input}{3}{}%
-\contentsline {subparagraph}{Funzioni di attivazione}{3}{}%
-\contentsline {subparagraph}{Calcolo errore}{3}{}%
-\contentsline {subparagraph}{Aggiornamento pesi}{3}{}%
-\contentsline {subsection}{\numberline {3.3}I limiti}{3}{}%
-\contentsline {subsection}{\numberline {3.4}Finalmente un po' di codice}{3}{}%
+\contentsline {section}{\numberline {1}Introduzione ai Fondamenti di Intelligenza Artificiale}{4}{}%
+\contentsline {subsection}{\numberline {1.1}Definizione di Intelligenza Artificiale}{4}{}%
+\contentsline {subsection}{\numberline {1.2}Storia dell'Intelligenza Artificiale}{4}{}%
+\contentsline {subsection}{\numberline {1.3}Amo i film di fantascienza, davvero}{4}{}%
+\contentsline {section}{\numberline {2}Un computer è molto più stupido di quanto pensiate}{4}{}%
+\contentsline {subsection}{\numberline {2.1}I dati sono davvero importanti}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Introduzione alla terminologia}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Supervised Learning}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Unsupervised Learning}{4}{}%
+\contentsline {subsection}{\numberline {2.5}Reinforcement Learning}{4}{}%
+\contentsline {section}{\numberline {3}Gallina vecchia fa buon brodo: il Perceptron}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Non è magia}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Descrizione matematica di un problema semplice}{4}{}%
+\contentsline {subparagraph}{Gestione degli Input}{4}{}%
+\contentsline {subparagraph}{Funzioni di attivazione}{4}{}%
+\contentsline {subparagraph}{Calcolo errore}{4}{}%
+\contentsline {subparagraph}{Aggiornamento pesi}{4}{}%
+\contentsline {subsection}{\numberline {3.3}I limiti}{4}{}%
+\contentsline {subsection}{\numberline {3.4}Finalmente un po' di codice}{4}{}%
