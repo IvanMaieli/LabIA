@@ -11,7 +11,7 @@
 \contentsline {section}{\numberline {3}Gallina vecchia fa buon brodo: il Perceptron}{3}{}%
 \contentsline {subsection}{\numberline {3.1}Non è magia}{3}{}%
 \contentsline {subsection}{\numberline {3.2}Descrizione matematica di un problema semplice}{3}{}%
-\contentsline {subparagraph}{Gestione dei Weights}{3}{}%
+\contentsline {subparagraph}{Gestione degli Input}{3}{}%
 \contentsline {subparagraph}{Funzioni di attivazione}{3}{}%
 \contentsline {subparagraph}{Calcolo errore}{3}{}%
 \contentsline {subparagraph}{Aggiornamento pesi}{3}{}%
