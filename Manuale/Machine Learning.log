@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2023.11.12)  14 NOV 2023 16:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2023.11.12)  15 NOV 2023 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,19 +6,20 @@ entering extended mode
 (./Machine Learning.tex
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -40,15 +41,15 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count193
-\calc@Bcount=\count194
+\calc@Acount=\count194
+\calc@Bcount=\count195
 \calc@Adimen=\dimen141
 \calc@Bdimen=\dimen142
 \calc@Askip=\skip50
 \calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count195
+\calc@Ccount=\count196
 \calc@Cskip=\skip52
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
@@ -106,18 +107,18 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count196
+\pdfpages@includegraphics@status=\count197
 \AM@pagebox=\box51
 \AM@global@opts=\toks20
-\AM@pagecnt=\count197
+\AM@pagecnt=\count198
 \AM@toc@title=\toks21
 \AM@lof@heading=\toks22
-\c@AM@survey=\count198
+\c@AM@survey=\count199
 \AM@templatesizebox=\box52
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count199
+\l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box53
 )
 (./Machine Learning.aux)
@@ -140,16 +141,16 @@ LaTeX Font Info:    ... okay on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count266
+\scratchcounter=\count267
 \scratchdimen=\dimen150
 \scratchbox=\box54
-\nofMPsegments=\count267
-\nofMParguments=\count268
+\nofMPsegments=\count268
+\nofMParguments=\count269
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count269
+\MPscratchCnt=\count270
 \MPscratchDim=\dimen151
-\MPnumerator=\count270
-\makeMPintoPDFobject=\count271
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
 \everyMPtoPDFconversion=\toks24
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -175,38 +176,38 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-<cover.png, id=1, 597.60106pt x 845.26315pt>
-File: cover.png Graphic file (type png)
-<use cover.png>
-Package pdftex.def Info: cover.png  used on input line 11.
+<Covers/cover2.png, id=1, 597.60106pt x 845.26315pt>
+File: Covers/cover2.png Graphic file (type png)
+<use Covers/cover2.png>
+Package pdftex.def Info: Covers/cover2.png  used on input line 11.
 (pdftex.def)             Requested size: 597.5996pt x 845.2611pt.
-File: cover.png Graphic file (type png)
-<use cover.png>
-Package pdftex.def Info: cover.png  used on input line 11.
+File: Covers/cover2.png Graphic file (type png)
+<use Covers/cover2.png>
+Package pdftex.def Info: Covers/cover2.png  used on input line 11.
 (pdftex.def)             Requested size: 597.5996pt x 845.2611pt.
-File: cover.png Graphic file (type png)
-<use cover.png>
-Package pdftex.def Info: cover.png  used on input line 11.
+File: Covers/cover2.png Graphic file (type png)
+<use Covers/cover2.png>
+Package pdftex.def Info: Covers/cover2.png  used on input line 11.
 (pdftex.def)             Requested size: 597.5996pt x 845.2611pt.
-File: cover.png Graphic file (type png)
-<use cover.png>
-Package pdftex.def Info: cover.png  used on input line 11.
+File: Covers/cover2.png Graphic file (type png)
+<use Covers/cover2.png>
+Package pdftex.def Info: Covers/cover2.png  used on input line 11.
 (pdftex.def)             Requested size: 597.62694pt x 845.29977pt.
-File: cover.png Graphic file (type png)
-<use cover.png>
-Package pdftex.def Info: cover.png  used on input line 11.
+File: Covers/cover2.png Graphic file (type png)
+<use Covers/cover2.png>
+Package pdftex.def Info: Covers/cover2.png  used on input line 11.
 (pdftex.def)             Requested size: 597.62694pt x 845.29977pt.
-File: cover.png Graphic file (type png)
-<use cover.png>
-Package pdftex.def Info: cover.png  used on input line 11.
+File: Covers/cover2.png Graphic file (type png)
+<use Covers/cover2.png>
+Package pdftex.def Info: Covers/cover2.png  used on input line 11.
 (pdftex.def)             Requested size: 597.62694pt x 845.29977pt.
-File: cover.png Graphic file (type png)
-<use cover.png>
-Package pdftex.def Info: cover.png  used on input line 11.
+File: Covers/cover2.png Graphic file (type png)
+<use Covers/cover2.png>
+Package pdftex.def Info: Covers/cover2.png  used on input line 11.
 (pdftex.def)             Requested size: 597.62694pt x 845.29977pt.
  [1
 
- <./cover.png>] (./Machine Learning.toc
+ <./Covers/cover2.png>] (./Machine Learning.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -217,33 +218,142 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `"Machine Learning.toc"'.
 
- [2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+ [2
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \hbox (42.47623pt too wide) in paragraph at lines 36--36
 \OT1/cmr/m/it/12 Il doc-u-mento nasce dalla ne-ces-sit^^Ra di dif-fondere in-fo
 r-mazioni ac-cu-rate sull'intelligenza
  []
 
-[3] [4] (./Machine Learning.aux)
+[3]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--48
+
+ []
+
+
+Overfull \hbox (1.20149pt too wide) in paragraph at lines 42--48
+\OT1/cmr/m/n/12 In questa sezione preferisco di gran lunga in-serire molteplici
+ definizioni, poich^^Se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--48
+
+ []
+
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 68--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--98
+
+ []
+
+[5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 99--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--118
+
+ []
+
+[7] [8]
+Chapter 2.
+[9
+
+]
+Chapter 3.
+[10
+
+]
+Chapter 4.
+[11
+
+] (./Machine Learning.aux)
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2805 strings out of 477652
- 44870 string characters out of 5830506
- 1859759 words of memory out of 5000000
- 23290 multiletter control sequences out of 15000+600000
- 517988 words of font info for 49 fonts, out of 8000000 for 9000
+ 2827 strings out of 477652
+ 45167 string characters out of 5830506
+ 1863759 words of memory out of 5000000
+ 23312 multiletter control sequences out of 15000+600000
+ 518594 words of font info for 51 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,17n,79p,282b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,17n,79p,392b,429s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Machine Learning.pdf" (4 pages, 5965412 bytes).
+Output written on "Machine Learning.pdf" (11 pages, 2560493 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
